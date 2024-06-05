@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 import {ref} from 'vue-demi'
 
-const size:string = ref('default') // 默认大小主体
+const size:string = ref('large') // 默认大小主体
 const zIndex:Number = ref(3000)
 </script>
 
